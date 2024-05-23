@@ -119,4 +119,5 @@ ORDER BY year DESC, num_unicorns DESC
 | Fintech	                        | 2020 | 15	          | 4.33                       |
 
 A graphical representation illustrating the number of unicorn companies across various industries in the years 2019, 2020, and 2021 will be as follows:
+![unicorn distribution](unicron%distribution.png)
 
