@@ -1,2 +1,0 @@
-# analyzing-unicorn-companies
-Project
