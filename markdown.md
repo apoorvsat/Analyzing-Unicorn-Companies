@@ -1,5 +1,5 @@
 # Analyzing Unicorn Companies- A SQL Project
-![Analyzing Unicorn Companies](Analyzing%20Unicorn%20Companies.png)
+![Analyzing Unicorn Companies](unicorn.png)
 
 Did you know that the average return from investing in stocks is [10% per year](https://www.nerdwallet.com/article/investing/average-stock-market-return) (not accounting for inflation)? But who wants to be average?! 
 
@@ -118,6 +118,29 @@ ORDER BY year DESC, num_unicorns DESC
 | E-commerce & direct-to-consumer	| 2020 | 16	          | 4                          |
 | Fintech	                        | 2020 | 15	          | 4.33                       |
 
-A graphical representation illustrating the number of unicorn companies across various industries in the years 2019, 2020, and 2021 will be as follows:
-![unicorn distribution](unicron%distribution.png)
+## Visualizations: 
+#### A graphical representation illustrating the number of unicorn companies across various industries in the years 2019, 2020, and 2021 will be as follows:
+![unicorn distribution](unicron%20distribution.png)
 
+#### A graphical representation of the average valuation of industries over the years will be as follows:
+![avg valuation](avg%20valuation.png)
+
+## Conclusion 
+
+### Trend in Number of Unicorns
+<ol><li>E-commerce & direct-to-consumer: There is a significant increase in the number of unicorns from 2019 (12) to 2021 (47), showing rapid growth in this industry.
+</li>
+<li>Fintech: The number of fintech unicorns also shows impressive growth from 2019 (20) to 2021 (138), indicating a booming interest and investment in financial technology solutions.
+</li>
+<li>Internet software and services: Similar to the other two industries, there is also a marked increase in the number of unicorns, from 13 in 2019 to 119 in 2021.
+</li>
+</ol>
+
+### Trend in Average Valuation in Billions
+<ol>
+	<li>E-commerce & direct-to-consumer: The average valuation peaked in 2020 at $4 billion and decreased to $2.47 billion in 2021 despite the increase in the number of unicorns. This might suggest a larger number of smaller-scale startups reaching the unicorn status in 2021 or a general market correction.</li>
+	<li>Fintech: There is a noticeable decrease in average valuation from $6.80 billion in 2019 to $2.75 billion in 2021. The decrease in valuation, despite the increase in the number of companies, might indicate market saturation or more conservative valuations as more players enter the market.
+	</li>
+	<li>Internet software and services: The average valuation was highest in 2020 at $4.35 billion, similar to the other industries, but dropped to $2.15 billion in 2021. This drop mirrors the trend observed in the other sectors, suggesting possible market corrections or adjustments in valuation expectations.
+	</li>
+</ol>
